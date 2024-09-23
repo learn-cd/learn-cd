@@ -1,5 +1,18 @@
-<h1 align="center">Hi 👋, I'm Sonu Singh 🌀 from India 🇮🇳</h1>
-<h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
+
+<h1 align="center">Hey 👋, I'm Sonu Singh 👨‍💻</h1>
+
+    💻 I'm a DevOps engineer with expertise in cloud computing, automation, containerisation and scalable system building.
+
+### ⭐ Overview
+
+
+With **16+ years of open-source contribution**, **12+ years of professional hands-on experience in DevOps**, and **an M.Sc. in Data Engineering** from Edinburgh Napier University (UK), I enjoy facilitating the growth of both businesses and individuals.
+
+I specialize in **Cloud-Native and Kubernetes**. I'm also a Free/Open source geek and book author. My favorite topics are DevOps transformation, DevSecOps, automation, data, and metrics.
+
+
+In general, I'm interested in **Career, Agile, DevOps, Kubernetes, Containers, CI/CD, and Automation**. Besides hands-on experience, I hold/held a couple of professional certificates like **CKS, CKA, CKAD, AWS SAA, AWS SOA, RHCE, and RHCSA**.
+
 
 <p align="center">
 <a href="https://linkedin.com/in/yatharth7" target="blank">
@@ -90,3 +103,12 @@
 <p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yatharth0045&show_icons=true&hide=stars,issues" alt="yatharth0045" /></p>
+
+
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=learn-cd&show_icons=true&theme=radical)
+
+![Language Used](https://github-readme-stats.vercel.app/apitop-langs/?username=learn-cd&show_icons=true&theme=radical)
+
