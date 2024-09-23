@@ -36,7 +36,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=learn-cd&show_icons=true&theme=radical&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=learn-cd&show_icons=true&include_all_commits=true&theme=radical)
 
 ### 📊 Language Stats
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=learn-cd&show_icons=true&theme=radical)
