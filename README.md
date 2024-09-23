@@ -29,9 +29,9 @@
 - **Configuration Management**: ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 , CloudFormation
 - **Monitoring**: DataDog,Newrelic
-- **Programming/Scripting**: ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-,  ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)  
-- **Version Control**:  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white),    ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- **Programming/Scripting**: ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&width=40&length=40)
+,  ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&width=40&length=40)  
+- **Version Control**:  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&width=40&length=40),    ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&width=40&length=40)
 
 
 ### 📊 GitHub Stats
