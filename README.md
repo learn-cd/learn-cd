@@ -33,8 +33,8 @@
 
 - **Monitoring**    :  ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat-square&logo=datadog&logoColor=white&labelColor=yellow) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white&labelColor=yellow) ![NewRelic](https://img.shields.io/badge/NewRelic-E6522C?style=flat-square&logo=NewRelic&logoColor=white&labelColor=yellow&color=blue)
 - **Programming/Scripting**    :   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=yellow&color=red)
-,  ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white&labelColor=yellow&color=red)  
-- **Version Control**    :    ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&labelColor=yellow),    ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=yellow&color=blue)
+,  ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white&labelColor=yellow&color=blue)  
+- **Version Control**    :    ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white&labelColor=yellow),    ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&labelColor=yellow&color=blue)
 
 
 <br>
