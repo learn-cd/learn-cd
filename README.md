@@ -34,7 +34,7 @@
 - **Monitoring** :  DataDog,Newrelic
 - **Programming/Scripting** :   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&width=40&length=40)
 ,  ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&width=40&length=40)  
-- **Version Control**   :  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&width=40&length=40),    ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&width=40&length=40)
+- **Version Control**   :  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&width=10&height=10),    ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&width=10&length=10)
 
 
 <br>
@@ -44,6 +44,7 @@
 <p align="center">
   <a href="https://devbite.hashnode.dev/"><img title="blog-devbite" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 <a href="https://devbite.hashnode.dev/"><img title="blog-devbite" src="https://img.shields.io/badge/Gitlab-2962FF?style=for-the-badge&logo=gitlab&logoColor=red"/></a>
+
 
 </br>
 
@@ -64,7 +65,7 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=learn-cd&theme=red" alt="Sonu Singh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=learn-cd&theme=dark" alt="Sonu Singh" /></p>
   </div>
 
 
