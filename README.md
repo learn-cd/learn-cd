@@ -41,18 +41,34 @@
 
 ### 📕 Blog Posts
 
-<p align="left">
+<p align="center">
   <a href="https://devbite.hashnode.dev/"><img title="blog-devbite" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-
+<a href="https://devbite.hashnode.dev/"><img title="blog-devbite" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 
 </br>
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=learn-cd&show_icons=true&include_all_commits=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=learn-cd&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
 
 ### 📊 Language Stats
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=learn-cd&show_icons=true&theme=radical)
+
+
+<table>
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api?username=learn-cd&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Sonu Singh" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learn-cd&show_icons=true&theme=radical" alt="Sonu Singh" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=learn-cd&theme=dark" alt="Sonu Singh" /></p>
+  </div>
+
+
+
 
 <table>
   <tr>
