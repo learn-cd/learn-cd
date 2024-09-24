@@ -69,6 +69,14 @@
 
 
 
+[![Sonu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=learn-cd&&theme=xcode)](https://github.com/learn-cd)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=learn-cd&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="learn-cd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=learn-cd&show_icons=true&locale=en&theme=tokyonight" alt="learn-cd" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=learn-cd&&theme=tokyonight" alt="learn-cd" /></p>
+
 
 <!-- <table>
   <tr>
