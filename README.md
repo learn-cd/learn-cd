@@ -23,18 +23,18 @@
 
 ### 💼 Tech Stack 
 
-- **Cloud**: ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white),  
-- **Containerization**: ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-,    ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white&labelColor=yellow)
-- **CI/CD**: ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
-, ![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-, ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-- **Configuration Management**: ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-, CloudFormation
-- **Monitoring** :  DataDog,Newrelic
-- **Programming/Scripting** :   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&width=40&length=40)
-,  ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&width=40&length=40)  
-- **Version Control**   :  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&width=10&height=10),    ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black&width=10&length=10)
+- **Cloud** :   ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=red) ![Azure](https://img.shields.io/badge/azure-%230072C6?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=yellow) 
+- **Containerization**  :   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white&labelColor=yellow)  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white&labelColor=yellow)
+- **CI/CD** :   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white&labelColor=yellow)
+, ![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white&labelColor=yellow)
+, ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white&labelColor=yellow)
+- **Configuration Management**  :   ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
+, ![CloudFormation](https://img.shields.io/badge/AWS-%2523FF9900?style=flat-square&label=Cloudformation?style=flat-square&logo=Cloudformation&logoColor=white&labelColor=yellow)
+
+- **Monitoring**    :  ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat-square&logo=datadog&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white) ![NewRelic](https://img.shields.io/badge/NewRelic-E6522C?style=flat-square&logo=NewRelic&logoColor=white)
+- **Programming/Scripting**    :   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+,  ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white)  
+- **Version Control**    :    ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white),    ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
 <br>
